@@ -1251,18 +1251,6 @@
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "275",
-            "StationAddress": "無",
-            "StationClass": 6,
-            "StationID": "1325",
-            "StationName": {
-                "En": "Lilin",
-                "Zh_tw": "栗林"
-            },
-            "StationPhone": "無",
-            "StationPosition": {},
-            "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
@@ -1284,33 +1272,9 @@
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "276",
-            "StationAddress": "無",
-            "StationClass": 6,
-            "StationID": "1326",
-            "StationName": {
-                "En": "Toujiacuo",
-                "Zh_tw": "頭家厝"
-            },
-            "StationPhone": "無",
-            "StationPosition": {},
-            "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "277",
-            "StationAddress": "無",
-            "StationClass": 6,
-            "StationID": "1327",
-            "StationName": {
-                "En": "Songzhu",
-                "Zh_tw": "松竹"
-            },
-            "StationPhone": "無",
-            "StationPosition": {},
-            "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
@@ -1332,18 +1296,6 @@
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "278",
-            "StationAddress": "無",
-            "StationClass": 6,
-            "StationID": "1328",
-            "StationName": {
-                "En": "Jingwu",
-                "Zh_tw": "精武"
-            },
-            "StationPhone": "無",
-            "StationPosition": {},
-            "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
@@ -2349,71 +2301,74 @@
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "332",
-            "StationAddress": "無",
-            "StationClass": 6,
             "StationID": "1245",
             "StationName": {
-                "En": "Neiwei",
-                "Zh_tw": "內惟"
+                "Zh_tw": "內惟",
+                "En": "Neiwei"
             },
-            "StationPhone": "無",
             "StationPosition": {
                 "PositionLat": 22.665959,
                 "PositionLon": 120.287059
             },
+            "StationAddress": "無",
+            "StationPhone": "無",
+            "OperatorID": "TRA",
+            "StationClass": 6,
+            "ReservationCode": "332",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "333",
-            "StationAddress": "無",
-            "StationClass": 6,
             "StationID": "1246",
             "StationName": {
-                "En": "Museum of Fine Arts",
-                "Zh_tw": "美術館"
+                "Zh_tw": "美術館",
+                "En": "Museum of Fine Arts"
             },
-            "StationPhone": "無",
             "StationPosition": {
                 "PositionLat": 22.652737,
                 "PositionLon": 120.281489
             },
+            "StationAddress": "無",
+            "StationPhone": "無",
+            "OperatorID": "TRA",
+            "StationClass": 6,
+            "ReservationCode": "333",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "334",
-            "StationAddress": "無",
-            "StationClass": 6,
             "StationID": "1237",
             "StationName": {
-                "En": "Gushan",
-                "Zh_tw": "鼓山"
+                "Zh_tw": "鼓山",
+                "En": "Gushan"
             },
-            "StationPhone": "無",
             "StationPosition": {
                 "PositionLat": 22.639895,
                 "PositionLon": 120.281328
             },
+            "StationAddress": "無",
+            "StationPhone": "無",
+            "OperatorID": "TRA",
+            "StationClass": 6,
+            "ReservationCode": "334",
             "UpdateTime": "2018-09-17T22:41:05+08:00",
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "336",
-            "StationAddress": "無",
-            "StationClass": 6,
             "StationID": "1247",
             "StationName": {
-                "En": "Sankuaicuo",
-                "Zh_tw": "三塊厝"
+                "Zh_tw": "三塊厝",
+                "En": "Sankuaicuo"
             },
+            "StationPosition": {
+                "PositionLat": 22.640066,
+                "PositionLon": 120.293921
+            },
+            "StationAddress": "無",
             "StationPhone": "無",
-            "StationPosition": {},
+            "OperatorID": "TRA",
+            "StationClass": 6,
+            "ReservationCode": "336",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
@@ -2436,50 +2391,56 @@
             "IsMainStationInArea": true
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "337",
-            "StationAddress": "無",
-            "StationClass": 6,
             "StationID": "1419",
             "StationName": {
-                "En": "Minzu",
-                "Zh_tw": "民族"
+                "Zh_tw": "民族",
+                "En": "Minzu"
             },
+            "StationPosition": {
+                "PositionLat": 22.639134,
+                "PositionLon": 120.31507
+            },
+            "StationAddress": "無",
             "StationPhone": "無",
-            "StationPosition": {},
+            "OperatorID": "TRA",
+            "StationClass": 6,
+            "ReservationCode": "337",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "338",
-            "StationAddress": "無",
-            "StationClass": 6,
             "StationID": "1420",
             "StationName": {
-                "En": "Science and Technology Museum",
-                "Zh_tw": "科工"
+                "Zh_tw": "科工",
+                "En": "Science and Technology Museum"
             },
-            "StationPhone": "無",
             "StationPosition": {
                 "PositionLat": 22.639693,
                 "PositionLon": 120.323515
             },
+            "StationAddress": "無",
+            "StationPhone": "無",
+            "OperatorID": "TRA",
+            "StationClass": 6,
+            "ReservationCode": "338",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
-            "OperatorID": "TRA",
-            "ReservationCode": "339",
-            "StationAddress": "無",
-            "StationClass": 6,
             "StationID": "1421",
             "StationName": {
-                "En": "Zhengyi",
-                "Zh_tw": "正義"
+                "Zh_tw": "正義",
+                "En": "Zhengyi"
             },
+            "StationPosition": {
+                "PositionLat": 22.634333,
+                "PositionLon": 120.342
+            },
+            "StationAddress": "無",
             "StationPhone": "無",
-            "StationPosition": {},
+            "OperatorID": "TRA",
+            "StationClass": 6,
+            "ReservationCode": "339",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },

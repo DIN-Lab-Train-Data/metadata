@@ -2411,7 +2411,7 @@
         {
             "StationID": "1420",
             "StationName": {
-                "Zh_tw": "科工",
+                "Zh_tw": "科工館",
                 "En": "Science and Technology Museum"
             },
             "StationPosition": {
@@ -2423,7 +2423,7 @@
             "OperatorID": "TRA",
             "StationClass": 6,
             "ReservationCode": "338",
-            "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "UpdateTime": "2018-09-27T11:17:18+08:00",
             "IsMainStationInArea": false
         },
         {

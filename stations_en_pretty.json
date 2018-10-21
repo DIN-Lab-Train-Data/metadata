@@ -1551,7 +1551,9 @@
             },
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "IsMainStationInArea": false
-        },
+        }
+    ],
+    "Nantou": [
         {
             "OperatorID": "TRA",
             "ReservationCode": "251",
@@ -1568,10 +1570,8 @@
                 "PositionLon": 120.642034
             },
             "UpdateTime": "2017-06-26T17:38:15+08:00",
-            "IsMainStationInArea": false
-        }
-    ],
-    "Nantou": [
+            "IsMainStationInArea": true
+        },
         {
             "OperatorID": "TRA",
             "ReservationCode": "252",
@@ -1588,7 +1588,7 @@
                 "PositionLon": 120.70472
             },
             "UpdateTime": "2017-06-26T17:38:15+08:00",
-            "IsMainStationInArea": true
+            "IsMainStationInArea": false
         },
         {
             "OperatorID": "TRA",

@@ -1251,6 +1251,21 @@
             "IsMainStationInArea": false
         },
         {
+            "OperatorID": "TRA",
+            "ReservationCode": "275",
+            "StationAddress": "無",
+            "StationClass": 6,
+            "StationID": "1325",
+            "StationName": {
+                "En": "Lilin",
+                "Zh_tw": "栗林"
+            },
+            "StationPhone": "無",
+            "StationPosition": {
+                "PositionLat": 24.1987,
+                "PositionLon": 120.7109
+            },
+            "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
@@ -1272,9 +1287,39 @@
             "IsMainStationInArea": false
         },
         {
+            "OperatorID": "TRA",
+            "ReservationCode": "276",
+            "StationAddress": "無",
+            "StationClass": 6,
+            "StationID": "1326",
+            "StationName": {
+                "En": "Toujiacuo",
+                "Zh_tw": "頭家厝"
+            },
+            "StationPhone": "無",
+            "StationPosition": {
+                "PositionLat": 24.1311,
+                "PositionLon": 120.6999
+            },
+            "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
+            "OperatorID": "TRA",
+            "ReservationCode": "277",
+            "StationAddress": "無",
+            "StationClass": 6,
+            "StationID": "1327",
+            "StationName": {
+                "En": "Songzhu",
+                "Zh_tw": "松竹"
+            },
+            "StationPhone": "無",
+            "StationPosition": {
+                "PositionLat": 24.1449,
+                "PositionLon": 120.7013
+            },
+            "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {
@@ -1296,6 +1341,21 @@
             "IsMainStationInArea": false
         },
         {
+            "OperatorID": "TRA",
+            "ReservationCode": "278",
+            "StationAddress": "無",
+            "StationClass": 6,
+            "StationID": "1328",
+            "StationName": {
+                "En": "Jingwu",
+                "Zh_tw": "精武"
+            },
+            "StationPhone": "無",
+            "StationPosition": {
+                "PositionLat": 24.1135,
+                "PositionLon": 120.6972
+            },
+            "UpdateTime": "2018-09-17T00:00:00+08:00",
             "IsMainStationInArea": false
         },
         {

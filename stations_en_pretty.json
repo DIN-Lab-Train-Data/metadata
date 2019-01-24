@@ -15,6 +15,7 @@
                 "PositionLat": 25.015893,
                 "PositionLon": 121.944659
             },
+            "StationUID": "TRA-1810",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -34,6 +35,7 @@
                 "PositionLat": 25.022044,
                 "PositionLon": 121.908703
             },
+            "StationUID": "TRA-1809",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -53,6 +55,7 @@
                 "PositionLat": 25.038544,
                 "PositionLon": 121.866548
             },
+            "StationUID": "TRA-1808",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -72,6 +75,7 @@
                 "PositionLat": 25.058738,
                 "PositionLon": 121.851977
             },
+            "StationUID": "TRA-1807",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -91,6 +95,7 @@
                 "PositionLat": 25.065544,
                 "PositionLon": 121.822559
             },
+            "StationUID": "TRA-1806",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -110,6 +115,7 @@
                 "PositionLat": 25.087009,
                 "PositionLon": 121.827424
             },
+            "StationUID": "TRA-1805",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -129,6 +135,7 @@
                 "PositionLat": 25.108928,
                 "PositionLon": 121.806149
             },
+            "StationUID": "TRA-1804",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -148,6 +155,7 @@
                 "PositionLat": 25.102751,
                 "PositionLon": 121.761887
             },
+            "StationUID": "TRA-1803",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -167,6 +175,7 @@
                 "PositionLat": 25.102282,
                 "PositionLon": 121.740329
             },
+            "StationUID": "TRA-1802",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -186,6 +195,7 @@
                 "PositionLat": 25.131598,
                 "PositionLon": 121.738366
             },
+            "StationUID": "TRA-1001",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -205,6 +215,7 @@
                 "PositionLat": 25.123081,
                 "PositionLon": 121.742009
             },
+            "StationUID": "TRA-1029",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -224,6 +235,7 @@
                 "PositionLat": 25.108392,
                 "PositionLon": 121.729049
             },
+            "StationUID": "TRA-1002",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -243,6 +255,7 @@
                 "PositionLat": 25.093359,
                 "PositionLon": 121.713868
             },
+            "StationUID": "TRA-1003",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -262,6 +275,7 @@
                 "PositionLat": 25.077927,
                 "PositionLon": 121.693869
             },
+            "StationUID": "TRA-1030",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -281,6 +295,7 @@
                 "PositionLat": 25.078,
                 "PositionLon": 121.667701
             },
+            "StationUID": "TRA-1004",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -300,6 +315,7 @@
                 "PositionLat": 25.068224,
                 "PositionLon": 121.661757
             },
+            "StationUID": "TRA-1005",
             "UpdateTime": "2016-08-22T16:30:37+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -319,6 +335,7 @@
                 "PositionLat": 25.062626,
                 "PositionLon": 121.646584
             },
+            "StationUID": "TRA-1031",
             "UpdateTime": "2016-08-08T16:42:00+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -338,6 +355,7 @@
                 "PositionLat": 25.05314,
                 "PositionLon": 121.607019
             },
+            "StationUID": "TRA-1006",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -357,6 +375,7 @@
                 "PositionLat": 25.04933,
                 "PositionLon": 121.577965
             },
+            "StationUID": "TRA-1007",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -376,6 +395,7 @@
                 "PositionLat": 25.047503,
                 "PositionLon": 121.517047
             },
+            "StationUID": "TRA-1008",
             "UpdateTime": "2016-08-09T09:45:00+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -395,6 +415,7 @@
                 "PositionLat": 25.03335,
                 "PositionLon": 121.500331
             },
+            "StationUID": "TRA-1009",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -414,6 +435,7 @@
                 "PositionLat": 25.014399,
                 "PositionLon": 121.463497
             },
+            "StationUID": "TRA-1011",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -433,6 +455,7 @@
                 "PositionLat": 25.004184,
                 "PositionLon": 121.444649
             },
+            "StationUID": "TRA-1032",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -452,6 +475,7 @@
                 "PositionLat": 24.991348,
                 "PositionLon": 121.424564
             },
+            "StationUID": "TRA-1012",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -471,6 +495,7 @@
                 "PositionLat": 24.980485,
                 "PositionLon": 121.408796
             },
+            "StationUID": "TRA-1034",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -490,6 +515,7 @@
                 "PositionLat": 24.972482,
                 "PositionLon": 121.392657
             },
+            "StationUID": "TRA-1013",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -509,6 +535,7 @@
                 "PositionLat": 24.954532,
                 "PositionLon": 121.355125
             },
+            "StationUID": "TRA-1014",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -530,6 +557,7 @@
                 "PositionLat": 24.989209,
                 "PositionLon": 121.313499
             },
+            "StationUID": "TRA-1015",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -549,6 +577,7 @@
                 "PositionLat": 24.972797,
                 "PositionLon": 121.258258
             },
+            "StationUID": "TRA-1016",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -568,6 +597,7 @@
                 "PositionLat": 24.953666,
                 "PositionLon": 121.225798
             },
+            "StationUID": "TRA-1017",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -587,6 +617,7 @@
                 "PositionLat": 24.919951,
                 "PositionLon": 121.183827
             },
+            "StationUID": "TRA-1018",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -606,6 +637,7 @@
                 "PositionLat": 24.914346,
                 "PositionLon": 121.146405
             },
+            "StationUID": "TRA-1019",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -625,6 +657,7 @@
                 "PositionLat": 24.934273,
                 "PositionLon": 121.083019
             },
+            "StationUID": "TRA-1020",
             "UpdateTime": "2016-08-22T16:30:37+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -644,6 +677,7 @@
                 "PositionLat": 24.931239,
                 "PositionLon": 121.066512
             },
+            "StationUID": "TRA-1036",
             "UpdateTime": "2017-09-28T00:00:00+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -665,6 +699,7 @@
                 "PositionLat": 24.922207,
                 "PositionLon": 121.055671
             },
+            "StationUID": "TRA-1033",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -684,6 +719,7 @@
                 "PositionLat": 24.903029,
                 "PositionLon": 121.044009
             },
+            "StationUID": "TRA-1021",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -703,6 +739,7 @@
                 "PositionLat": 24.869228,
                 "PositionLon": 120.99634
             },
+            "StationUID": "TRA-1022",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -722,6 +759,7 @@
                 "PositionLat": 24.839283,
                 "PositionLon": 121.009376
             },
+            "StationUID": "TRA-1023",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -741,6 +779,7 @@
                 "PositionLat": 24.808746,
                 "PositionLon": 120.98367
             },
+            "StationUID": "TRA-1024",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -760,6 +799,7 @@
                 "PositionLat": 24.801637,
                 "PositionLon": 120.971627
             },
+            "StationUID": "TRA-1025",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -779,6 +819,7 @@
                 "PositionLat": 24.78755,
                 "PositionLon": 120.928937
             },
+            "StationUID": "TRA-1035",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -798,6 +839,7 @@
                 "PositionLat": 24.763121,
                 "PositionLon": 120.91389
             },
+            "StationUID": "TRA-1026",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -819,6 +861,7 @@
                 "PositionLat": 24.722782,
                 "PositionLon": 120.87179
             },
+            "StationUID": "TRA-1027",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -838,6 +881,7 @@
                 "PositionLat": 24.686562,
                 "PositionLon": 120.880888
             },
+            "StationUID": "TRA-1028",
             "UpdateTime": "2016-08-22T16:30:37+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -857,6 +901,7 @@
                 "PositionLat": 24.656414,
                 "PositionLon": 120.858241
             },
+            "StationUID": "TRA-1102",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -876,6 +921,7 @@
                 "PositionLat": 24.645645,
                 "PositionLon": 120.803778
             },
+            "StationUID": "TRA-1104",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -895,6 +941,7 @@
                 "PositionLat": 24.616212,
                 "PositionLon": 120.787307
             },
+            "StationUID": "TRA-1105",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -914,6 +961,7 @@
                 "PositionLat": 24.611683,
                 "PositionLon": 120.758142
             },
+            "StationUID": "TRA-1106",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -933,6 +981,7 @@
                 "PositionLat": 24.564797,
                 "PositionLon": 120.708198
             },
+            "StationUID": "TRA-1107",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -952,6 +1001,7 @@
                 "PositionLat": 24.54018,
                 "PositionLon": 120.695179
             },
+            "StationUID": "TRA-1108",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -971,6 +1021,7 @@
                 "PositionLat": 24.491403,
                 "PositionLon": 120.678425
             },
+            "StationUID": "TRA-1109",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -990,6 +1041,7 @@
                 "PositionLat": 24.443426,
                 "PositionLon": 120.651494
             },
+            "StationUID": "TRA-1110",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1009,6 +1061,7 @@
                 "PositionLat": 24.641439,
                 "PositionLon": 120.867051
             },
+            "StationUID": "TRA-1302",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1028,6 +1081,7 @@
                 "PositionLat": 24.604417,
                 "PositionLon": 120.826115
             },
+            "StationUID": "TRA-1304",
             "UpdateTime": "2018-10-22T08:07:48+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1047,6 +1101,7 @@
                 "PositionLat": 24.570036,
                 "PositionLon": 120.822319
             },
+            "StationUID": "TRA-1305",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -1066,6 +1121,7 @@
                 "PositionLat": 24.522509,
                 "PositionLon": 120.791571
             },
+            "StationUID": "TRA-1307",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1085,6 +1141,7 @@
                 "PositionLat": 24.48634,
                 "PositionLon": 120.786173
             },
+            "StationUID": "TRA-1308",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1104,6 +1161,7 @@
                 "PositionLat": 24.42062,
                 "PositionLon": 120.773931
             },
+            "StationUID": "TRA-1310",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1125,6 +1183,7 @@
                 "PositionLat": 24.378066,
                 "PositionLon": 120.654119
             },
+            "StationUID": "TRA-1111",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1144,6 +1203,7 @@
                 "PositionLat": 24.34443,
                 "PositionLon": 120.627017
             },
+            "StationUID": "TRA-1112",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1163,6 +1223,7 @@
                 "PositionLat": 24.304366,
                 "PositionLon": 120.602297
             },
+            "StationUID": "TRA-1113",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1182,6 +1243,7 @@
                 "PositionLat": 24.263624,
                 "PositionLon": 120.569178
             },
+            "StationUID": "TRA-1114",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1201,6 +1263,7 @@
                 "PositionLat": 24.237044,
                 "PositionLon": 120.557627
             },
+            "StationUID": "TRA-1115",
             "UpdateTime": "2016-08-22T16:30:37+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1220,6 +1283,7 @@
                 "PositionLat": 24.197444,
                 "PositionLon": 120.543371
             },
+            "StationUID": "TRA-1116",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1239,6 +1303,7 @@
                 "PositionLat": 24.154024,
                 "PositionLon": 120.542536
             },
+            "StationUID": "TRA-1117",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1258,6 +1323,7 @@
                 "PositionLat": 24.120613,
                 "PositionLon": 120.570158
             },
+            "StationUID": "TRA-1118",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1277,6 +1343,7 @@
                 "PositionLat": 24.331292,
                 "PositionLon": 120.741816
             },
+            "StationUID": "TRA-1314",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1296,6 +1363,7 @@
                 "PositionLat": 24.309312,
                 "PositionLon": 120.732893
             },
+            "StationUID": "TRA-1315",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1315,6 +1383,7 @@
                 "PositionLat": 24.254111,
                 "PositionLon": 120.723447
             },
+            "StationUID": "TRA-1317",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1335,6 +1404,7 @@
                 "PositionLon": 120.7109
             },
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1325",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -1353,6 +1423,7 @@
                 "PositionLat": 24.212802,
                 "PositionLon": 120.705947
             },
+            "StationUID": "TRA-1318",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1373,6 +1444,7 @@
                 "PositionLon": 120.6999
             },
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1326",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -1392,6 +1464,7 @@
                 "PositionLon": 120.7013
             },
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1327",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -1410,6 +1483,7 @@
                 "PositionLat": 24.163634,
                 "PositionLon": 120.699717
             },
+            "StationUID": "TRA-1323",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1430,6 +1504,7 @@
                 "PositionLon": 120.6972
             },
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1328",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -1448,6 +1523,7 @@
                 "PositionLat": 24.136955,
                 "PositionLon": 120.686827
             },
+            "StationUID": "TRA-1319",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -1467,6 +1543,7 @@
                 "PositionLat": 24.129105,
                 "PositionLon": 120.666833
             },
+            "StationUID": "TRA-1329",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1486,6 +1563,7 @@
                 "PositionLat": 24.119304,
                 "PositionLon": 120.648571
             },
+            "StationUID": "TRA-1322",
             "UpdateTime": "2017-06-26T17:37:09+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1505,6 +1583,7 @@
                 "PositionLat": 24.108692,
                 "PositionLon": 120.622472
             },
+            "StationUID": "TRA-1320",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1524,6 +1603,7 @@
                 "PositionLat": 24.109851,
                 "PositionLon": 120.614309
             },
+            "StationUID": "TRA-1324",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1543,6 +1623,7 @@
                 "PositionLat": 24.114232,
                 "PositionLon": 120.590164
             },
+            "StationUID": "TRA-1321",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1564,6 +1645,7 @@
                 "PositionLat": 24.081666,
                 "PositionLon": 120.538539
             },
+            "StationUID": "TRA-1120",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -1583,6 +1665,7 @@
                 "PositionLat": 24.024997,
                 "PositionLon": 120.5374
             },
+            "StationUID": "TRA-1202",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1602,6 +1685,7 @@
                 "PositionLat": 23.990053,
                 "PositionLon": 120.560645
             },
+            "StationUID": "TRA-1240",
             "UpdateTime": "2017-06-26T17:37:09+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1621,6 +1705,7 @@
                 "PositionLat": 23.959258,
                 "PositionLon": 120.56965
             },
+            "StationUID": "TRA-1203",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1640,6 +1725,7 @@
                 "PositionLat": 23.928148,
                 "PositionLon": 120.571672
             },
+            "StationUID": "TRA-1204",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1659,6 +1745,7 @@
                 "PositionLat": 23.89571,
                 "PositionLon": 120.5808
             },
+            "StationUID": "TRA-1205",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1678,6 +1765,7 @@
                 "PositionLat": 23.858503,
                 "PositionLon": 120.591396
             },
+            "StationUID": "TRA-1206",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1697,6 +1785,7 @@
                 "PositionLat": 23.81315,
                 "PositionLon": 120.618115
             },
+            "StationUID": "TRA-1207",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1718,6 +1807,7 @@
                 "PositionLat": 23.798445,
                 "PositionLon": 120.642034
             },
+            "StationUID": "TRA-2702",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -1737,6 +1827,7 @@
                 "PositionLat": 23.834666,
                 "PositionLon": 120.70472
             },
+            "StationUID": "TRA-2703",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1756,6 +1847,7 @@
                 "PositionLat": 23.835188,
                 "PositionLon": 120.750404
             },
+            "StationUID": "TRA-2704",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1775,6 +1867,7 @@
                 "PositionLat": 23.826451,
                 "PositionLon": 120.784891
             },
+            "StationUID": "TRA-2705",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1794,6 +1887,7 @@
                 "PositionLat": 23.818456,
                 "PositionLon": 120.853323
             },
+            "StationUID": "TRA-2706",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1813,6 +1907,7 @@
                 "PositionLat": 23.832637,
                 "PositionLon": 120.865745
             },
+            "StationUID": "TRA-2707",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1834,6 +1929,7 @@
                 "PositionLat": 23.759681,
                 "PositionLon": 120.614987
             },
+            "StationUID": "TRA-1208",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1853,6 +1949,7 @@
                 "PositionLat": 23.731643,
                 "PositionLon": 120.579973
             },
+            "StationUID": "TRA-1209",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1872,6 +1969,7 @@
                 "PositionLat": 23.711813,
                 "PositionLon": 120.541146
             },
+            "StationUID": "TRA-1210",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -1891,6 +1989,7 @@
                 "PositionLat": 23.672972,
                 "PositionLon": 120.480841
             },
+            "StationUID": "TRA-1211",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1910,6 +2009,7 @@
                 "PositionLat": 23.639568,
                 "PositionLon": 120.471007
             },
+            "StationUID": "TRA-1212",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1931,6 +2031,7 @@
                 "PositionLat": 23.601076,
                 "PositionLon": 120.455839
             },
+            "StationUID": "TRA-1213",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1950,6 +2051,7 @@
                 "PositionLat": 23.555039,
                 "PositionLon": 120.431651
             },
+            "StationUID": "TRA-1214",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1969,6 +2071,7 @@
                 "PositionLat": 23.499897,
                 "PositionLon": 120.448503
             },
+            "StationUID": "TRA-1241",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -1988,6 +2091,7 @@
                 "PositionLat": 23.479139,
                 "PositionLon": 120.441026
             },
+            "StationUID": "TRA-1215",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -2007,6 +2111,7 @@
                 "PositionLat": 23.433995,
                 "PositionLon": 120.399665
             },
+            "StationUID": "TRA-1217",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2026,6 +2131,7 @@
                 "PositionLat": 23.41345,
                 "PositionLon": 120.386544
             },
+            "StationUID": "TRA-1218",
             "UpdateTime": "2017-06-26T17:37:09+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2047,6 +2153,7 @@
                 "PositionLat": 23.36629,
                 "PositionLon": 120.360517
             },
+            "StationUID": "TRA-1219",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2066,6 +2173,7 @@
                 "PositionLat": 23.306732,
                 "PositionLon": 120.323055
             },
+            "StationUID": "TRA-1220",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2085,6 +2193,7 @@
                 "PositionLat": 23.277737,
                 "PositionLon": 120.322304
             },
+            "StationUID": "TRA-1221",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2104,6 +2213,7 @@
                 "PositionLat": 23.24259,
                 "PositionLon": 120.32093
             },
+            "StationUID": "TRA-1222",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2123,6 +2233,7 @@
                 "PositionLat": 23.192699,
                 "PositionLon": 120.31929
             },
+            "StationUID": "TRA-1223",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2142,6 +2253,7 @@
                 "PositionLat": 23.172622,
                 "PositionLon": 120.32133
             },
+            "StationUID": "TRA-1224",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2161,6 +2273,7 @@
                 "PositionLat": 23.133323,
                 "PositionLon": 120.306551
             },
+            "StationUID": "TRA-1225",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2180,6 +2293,7 @@
                 "PositionLat": 23.107602,
                 "PositionLon": 120.301996
             },
+            "StationUID": "TRA-1244",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2199,6 +2313,7 @@
                 "PositionLat": 23.06823,
                 "PositionLon": 120.290035
             },
+            "StationUID": "TRA-1226",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2218,6 +2333,7 @@
                 "PositionLat": 23.038338,
                 "PositionLon": 120.253524
             },
+            "StationUID": "TRA-1227",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2237,6 +2353,7 @@
                 "PositionLat": 23.019399,
                 "PositionLon": 120.22442
             },
+            "StationUID": "TRA-1239",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2256,6 +2373,7 @@
                 "PositionLat": 22.997144,
                 "PositionLon": 120.212966
             },
+            "StationUID": "TRA-1228",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -2275,6 +2393,7 @@
                 "PositionLat": 22.93294,
                 "PositionLon": 120.231594
             },
+            "StationUID": "TRA-1229",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2294,6 +2413,7 @@
                 "PositionLat": 22.923682,
                 "PositionLon": 120.240609
             },
+            "StationUID": "TRA-1243",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2313,6 +2433,7 @@
                 "PositionLat": 22.904544,
                 "PositionLon": 120.2527
             },
+            "StationUID": "TRA-1230",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2332,6 +2453,7 @@
                 "PositionLat": 22.907187,
                 "PositionLon": 120.272176
             },
+            "StationUID": "TRA-5101",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2351,6 +2473,7 @@
                 "PositionLat": 22.923953,
                 "PositionLon": 120.286371
             },
+            "StationUID": "TRA-5102",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2372,6 +2495,7 @@
                 "PositionLat": 22.878228,
                 "PositionLon": 120.253934
             },
+            "StationUID": "TRA-1231",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2391,6 +2515,7 @@
                 "PositionLat": 22.853948,
                 "PositionLon": 120.266275
             },
+            "StationUID": "TRA-1232",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2410,6 +2535,7 @@
                 "PositionLat": 22.792355,
                 "PositionLon": 120.299933
             },
+            "StationUID": "TRA-1233",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2429,6 +2555,7 @@
                 "PositionLat": 22.760994,
                 "PositionLon": 120.310334
             },
+            "StationUID": "TRA-1234",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2448,6 +2575,7 @@
                 "PositionLat": 22.727035,
                 "PositionLon": 120.324371
             },
+            "StationUID": "TRA-1235",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2467,6 +2595,7 @@
                 "PositionLat": 22.687544,
                 "PositionLon": 120.306788
             },
+            "StationUID": "TRA-1242",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2486,6 +2615,7 @@
                 "PositionLat": 22.675204,
                 "PositionLon": 120.294793
             },
+            "StationUID": "TRA-1236",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2506,6 +2636,7 @@
             "StationClass": 6,
             "ReservationCode": "332",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1245",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -2525,6 +2656,7 @@
             "StationClass": 6,
             "ReservationCode": "333",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1246",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -2544,6 +2676,7 @@
             "StationClass": 6,
             "ReservationCode": "334",
             "UpdateTime": "2018-09-17T22:41:05+08:00",
+            "StationUID": "TRA-1237",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -2563,6 +2696,7 @@
             "StationClass": 6,
             "ReservationCode": "336",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1247",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -2581,6 +2715,7 @@
                 "PositionLat": 22.63962,
                 "PositionLon": 120.302111
             },
+            "StationUID": "TRA-1238",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -2601,6 +2736,7 @@
             "StationClass": 6,
             "ReservationCode": "337",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1419",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -2620,6 +2756,7 @@
             "StationClass": 6,
             "ReservationCode": "338",
             "UpdateTime": "2018-09-27T11:17:18+08:00",
+            "StationUID": "TRA-1420",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -2639,6 +2776,7 @@
             "StationClass": 6,
             "ReservationCode": "339",
             "UpdateTime": "2018-09-17T00:00:00+08:00",
+            "StationUID": "TRA-1421",
             "VersionID": 1,
             "IsMainStationInArea": false
         },
@@ -2657,6 +2795,7 @@
                 "PositionLat": 22.631284,
                 "PositionLon": 120.357683
             },
+            "StationUID": "TRA-1402",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2676,6 +2815,7 @@
                 "PositionLat": 22.640067,
                 "PositionLon": 120.391125
             },
+            "StationUID": "TRA-1403",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2695,6 +2835,7 @@
                 "PositionLat": 22.656423,
                 "PositionLon": 120.420879
             },
+            "StationUID": "TRA-1404",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2716,6 +2857,7 @@
                 "PositionLat": 22.666252,
                 "PositionLon": 120.464873
             },
+            "StationUID": "TRA-1405",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2735,6 +2877,7 @@
                 "PositionLat": 22.669306,
                 "PositionLon": 120.486203
             },
+            "StationUID": "TRA-1406",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -2754,6 +2897,7 @@
                 "PositionLat": 22.65238,
                 "PositionLon": 120.502941
             },
+            "StationUID": "TRA-1407",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2773,6 +2917,7 @@
                 "PositionLat": 22.634849,
                 "PositionLon": 120.514378
             },
+            "StationUID": "TRA-1408",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2792,6 +2937,7 @@
                 "PositionLat": 22.616433,
                 "PositionLon": 120.526697
             },
+            "StationUID": "TRA-1409",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2811,6 +2957,7 @@
                 "PositionLat": 22.586491,
                 "PositionLon": 120.540002
             },
+            "StationUID": "TRA-1410",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2830,6 +2977,7 @@
                 "PositionLat": 22.550086,
                 "PositionLon": 120.53642
             },
+            "StationUID": "TRA-1411",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2849,6 +2997,7 @@
                 "PositionLat": 22.51306,
                 "PositionLon": 120.514765
             },
+            "StationUID": "TRA-1412",
             "UpdateTime": "2017-06-26T17:37:09+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2868,6 +3017,7 @@
                 "PositionLat": 22.492058,
                 "PositionLon": 120.511738
             },
+            "StationUID": "TRA-1413",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2887,6 +3037,7 @@
                 "PositionLat": 22.457984,
                 "PositionLon": 120.511356
             },
+            "StationUID": "TRA-1414",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2906,6 +3057,7 @@
                 "PositionLat": 22.431406,
                 "PositionLon": 120.515376
             },
+            "StationUID": "TRA-1415",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2925,6 +3077,7 @@
                 "PositionLat": 22.414087,
                 "PositionLon": 120.547742
             },
+            "StationUID": "TRA-1416",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2944,6 +3097,7 @@
                 "PositionLat": 22.399005,
                 "PositionLon": 120.572381
             },
+            "StationUID": "TRA-1417",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2963,6 +3117,7 @@
                 "PositionLat": 22.368019,
                 "PositionLon": 120.595098
             },
+            "StationUID": "TRA-1418",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -2982,6 +3137,7 @@
                 "PositionLat": 22.330971,
                 "PositionLon": 120.624621
             },
+            "StationUID": "TRA-1502",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3001,6 +3157,7 @@
                 "PositionLat": 22.306184,
                 "PositionLon": 120.643492
             },
+            "StationUID": "TRA-1503",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3020,6 +3177,7 @@
                 "PositionLat": 22.267067,
                 "PositionLon": 120.659647
             },
+            "StationUID": "TRA-1504",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3041,6 +3199,7 @@
                 "PositionLat": 22.365206,
                 "PositionLon": 120.900713
             },
+            "StationUID": "TRA-1508",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3060,6 +3219,7 @@
                 "PositionLat": 22.46104,
                 "PositionLon": 120.941771
             },
+            "StationUID": "TRA-1510",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3079,6 +3239,7 @@
                 "PositionLat": 22.531488,
                 "PositionLon": 120.967239
             },
+            "StationUID": "TRA-1512",
             "UpdateTime": "2016-08-08T16:42:00+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3098,6 +3259,7 @@
                 "PositionLat": 22.614936,
                 "PositionLon": 120.993368
             },
+            "StationUID": "TRA-1514",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3117,6 +3279,7 @@
                 "PositionLat": 22.710182,
                 "PositionLon": 121.060744
             },
+            "StationUID": "TRA-1516",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3136,6 +3299,7 @@
                 "PositionLat": 22.764277,
                 "PositionLon": 121.09356
             },
+            "StationUID": "TRA-1517",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3155,6 +3319,7 @@
                 "PositionLat": 22.793711,
                 "PositionLon": 121.123175
             },
+            "StationUID": "TRA-1632",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -3174,6 +3339,7 @@
                 "PositionLat": 22.862046,
                 "PositionLon": 121.138031
             },
+            "StationUID": "TRA-1631",
             "UpdateTime": "2016-08-22T16:30:37+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3193,6 +3359,7 @@
                 "PositionLat": 22.912469,
                 "PositionLon": 121.137004
             },
+            "StationUID": "TRA-1630",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3212,6 +3379,7 @@
                 "PositionLat": 22.955978,
                 "PositionLon": 121.159014
             },
+            "StationUID": "TRA-1629",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3231,6 +3399,7 @@
                 "PositionLat": 22.979968,
                 "PositionLon": 121.15579
             },
+            "StationUID": "TRA-1628",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3250,6 +3419,7 @@
                 "PositionLat": 23.045665,
                 "PositionLon": 121.164373
             },
+            "StationUID": "TRA-1626",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3269,6 +3439,7 @@
                 "PositionLat": 23.102934,
                 "PositionLon": 121.176829
             },
+            "StationUID": "TRA-1625",
             "UpdateTime": "2017-06-26T17:37:09+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3288,6 +3459,7 @@
                 "PositionLat": 23.126158,
                 "PositionLon": 121.21939
             },
+            "StationUID": "TRA-1624",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3309,6 +3481,7 @@
                 "PositionLat": 23.179132,
                 "PositionLon": 121.248692
             },
+            "StationUID": "TRA-1623",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3328,6 +3501,7 @@
                 "PositionLat": 23.226025,
                 "PositionLon": 121.278481
             },
+            "StationUID": "TRA-1622",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3347,6 +3521,7 @@
                 "PositionLat": 23.272309,
                 "PositionLon": 121.304181
             },
+            "StationUID": "TRA-1621",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3366,6 +3541,7 @@
                 "PositionLat": 23.331518,
                 "PositionLon": 121.311726
             },
+            "StationUID": "TRA-1619",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3385,6 +3561,7 @@
                 "PositionLat": 23.424766,
                 "PositionLon": 121.345344
             },
+            "StationUID": "TRA-1617",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3404,6 +3581,7 @@
                 "PositionLat": 23.497376,
                 "PositionLon": 121.376841
             },
+            "StationUID": "TRA-1616",
             "UpdateTime": "2016-08-22T16:30:37+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3423,6 +3601,7 @@
                 "PositionLat": 23.580268,
                 "PositionLon": 121.380122
             },
+            "StationUID": "TRA-1614",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3442,6 +3621,7 @@
                 "PositionLat": 23.605688,
                 "PositionLon": 121.389624
             },
+            "StationUID": "TRA-1613",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3461,6 +3641,7 @@
                 "PositionLat": 23.666293,
                 "PositionLon": 121.421168
             },
+            "StationUID": "TRA-1612",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3480,6 +3661,7 @@
                 "PositionLat": 23.711978,
                 "PositionLon": 121.419067
             },
+            "StationUID": "TRA-1611",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3499,6 +3681,7 @@
                 "PositionLat": 23.74634,
                 "PositionLon": 121.447024
             },
+            "StationUID": "TRA-1610",
             "UpdateTime": "2016-08-22T16:30:37+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3518,6 +3701,7 @@
                 "PositionLat": 23.782276,
                 "PositionLon": 121.45828
             },
+            "StationUID": "TRA-1609",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3537,6 +3721,7 @@
                 "PositionLat": 23.802587,
                 "PositionLon": 121.462015
             },
+            "StationUID": "TRA-1608",
             "UpdateTime": "2018-07-27T15:30:00+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3556,6 +3741,7 @@
                 "PositionLat": 23.848475,
                 "PositionLon": 121.496168
             },
+            "StationUID": "TRA-1607",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3575,6 +3761,7 @@
                 "PositionLat": 23.869016,
                 "PositionLon": 121.510633
             },
+            "StationUID": "TRA-1606",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3594,6 +3781,7 @@
                 "PositionLat": 23.882774,
                 "PositionLon": 121.520485
             },
+            "StationUID": "TRA-1605",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3613,6 +3801,7 @@
                 "PositionLat": 23.907494,
                 "PositionLon": 121.529437
             },
+            "StationUID": "TRA-1604",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3632,6 +3821,7 @@
                 "PositionLat": 23.968179,
                 "PositionLon": 121.582699
             },
+            "StationUID": "TRA-1602",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3651,6 +3841,7 @@
                 "PositionLat": 23.992868,
                 "PositionLon": 121.600993
             },
+            "StationUID": "TRA-1715",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -3670,6 +3861,7 @@
                 "PositionLat": 24.032533,
                 "PositionLon": 121.601671
             },
+            "StationUID": "TRA-1714",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3689,6 +3881,7 @@
                 "PositionLat": 24.090317,
                 "PositionLon": 121.610786
             },
+            "StationUID": "TRA-1713",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3708,6 +3901,7 @@
                 "PositionLat": 24.127524,
                 "PositionLon": 121.640866
             },
+            "StationUID": "TRA-1712",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3727,6 +3921,7 @@
                 "PositionLat": 24.172116,
                 "PositionLon": 121.655498
             },
+            "StationUID": "TRA-1711",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3746,6 +3941,7 @@
                 "PositionLat": 24.242199,
                 "PositionLon": 121.711749
             },
+            "StationUID": "TRA-1710",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3765,6 +3961,7 @@
                 "PositionLat": 24.298296,
                 "PositionLon": 121.753346
             },
+            "StationUID": "TRA-1709",
             "UpdateTime": "2016-08-16T09:47:56+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3786,6 +3983,7 @@
                 "PositionLat": 24.335428,
                 "PositionLon": 121.768355
             },
+            "StationUID": "TRA-1708",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3805,6 +4003,7 @@
                 "PositionLat": 24.448674,
                 "PositionLon": 121.776037
             },
+            "StationUID": "TRA-1706",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3824,6 +4023,7 @@
                 "PositionLat": 24.463396,
                 "PositionLon": 121.800926
             },
+            "StationUID": "TRA-1705",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3843,6 +4043,7 @@
                 "PositionLat": 24.518221,
                 "PositionLon": 121.830683
             },
+            "StationUID": "TRA-1704",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3862,6 +4063,7 @@
                 "PositionLat": 24.568417,
                 "PositionLon": 121.844564
             },
+            "StationUID": "TRA-1703",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3881,6 +4083,7 @@
                 "PositionLat": 24.595181,
                 "PositionLon": 121.85144
             },
+            "StationUID": "TRA-1827",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3900,6 +4103,7 @@
                 "PositionLat": 24.609024,
                 "PositionLon": 121.82703
             },
+            "StationUID": "TRA-1826",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3919,6 +4123,7 @@
                 "PositionLat": 24.615395,
                 "PositionLon": 121.8229
             },
+            "StationUID": "TRA-1825",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3938,6 +4143,7 @@
                 "PositionLat": 24.636726,
                 "PositionLon": 121.792246
             },
+            "StationUID": "TRA-1824",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3957,6 +4163,7 @@
                 "PositionLat": 24.677929,
                 "PositionLon": 121.774629
             },
+            "StationUID": "TRA-1823",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3976,6 +4183,7 @@
                 "PositionLat": 24.694192,
                 "PositionLon": 121.775163
             },
+            "StationUID": "TRA-1822",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -3995,6 +4203,7 @@
                 "PositionLat": 24.705267,
                 "PositionLon": 121.774131
             },
+            "StationUID": "TRA-1821",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4014,6 +4223,7 @@
                 "PositionLat": 24.754512,
                 "PositionLon": 121.758253
             },
+            "StationUID": "TRA-1820",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -4033,6 +4243,7 @@
                 "PositionLat": 24.786802,
                 "PositionLon": 121.762727
             },
+            "StationUID": "TRA-1819",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4052,6 +4263,7 @@
                 "PositionLat": 24.827034,
                 "PositionLon": 121.775354
             },
+            "StationUID": "TRA-1818",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4071,6 +4283,7 @@
                 "PositionLat": 24.843998,
                 "PositionLon": 121.809207
             },
+            "StationUID": "TRA-1817",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4090,6 +4303,7 @@
                 "PositionLat": 24.858976,
                 "PositionLon": 121.822556
             },
+            "StationUID": "TRA-1816",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4109,6 +4323,7 @@
                 "PositionLat": 24.883703,
                 "PositionLon": 121.845758
             },
+            "StationUID": "TRA-1815",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4128,6 +4343,7 @@
                 "PositionLat": 24.904818,
                 "PositionLon": 121.868878
             },
+            "StationUID": "TRA-1814",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4147,6 +4363,7 @@
                 "PositionLat": 24.938423,
                 "PositionLon": 121.889873
             },
+            "StationUID": "TRA-1813",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4166,6 +4383,7 @@
                 "PositionLat": 24.966799,
                 "PositionLon": 121.922496
             },
+            "StationUID": "TRA-1812",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4185,6 +4403,7 @@
                 "PositionLat": 24.978334,
                 "PositionLon": 121.945191
             },
+            "StationUID": "TRA-1811",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4206,6 +4425,7 @@
                 "PositionLat": 25.108928,
                 "PositionLon": 121.806149
             },
+            "StationUID": "TRA-1804",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4225,6 +4445,7 @@
                 "PositionLat": 25.087009,
                 "PositionLon": 121.827424
             },
+            "StationUID": "TRA-1805",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4244,6 +4465,7 @@
                 "PositionLat": 25.065544,
                 "PositionLon": 121.822559
             },
+            "StationUID": "TRA-1806",
             "UpdateTime": "2016-08-16T09:52:28+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4263,6 +4485,7 @@
                 "PositionLat": 25.023918,
                 "PositionLon": 121.723649
             },
+            "StationUID": "TRA-1908",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4282,6 +4505,7 @@
                 "PositionLat": 25.025633,
                 "PositionLon": 121.739984
             },
+            "StationUID": "TRA-1907",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -4301,6 +4525,7 @@
                 "PositionLat": 25.030138,
                 "PositionLon": 121.748102
             },
+            "StationUID": "TRA-1906",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4320,6 +4545,7 @@
                 "PositionLat": 25.03454,
                 "PositionLon": 121.763782
             },
+            "StationUID": "TRA-1905",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4339,6 +4565,7 @@
                 "PositionLat": 25.040991,
                 "PositionLon": 121.775229
             },
+            "StationUID": "TRA-1904",
             "UpdateTime": "2017-06-26T17:37:09+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4358,6 +4585,7 @@
                 "PositionLat": 25.049758,
                 "PositionLon": 121.797929
             },
+            "StationUID": "TRA-1903",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4377,6 +4605,7 @@
                 "PositionLat": 25.137706,
                 "PositionLon": 121.800023
             },
+            "StationUID": "TRA-6103",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4396,6 +4625,7 @@
                 "PositionLat": 25.135392,
                 "PositionLon": 121.803199
             },
+            "StationUID": "TRA-2003",
             "UpdateTime": "2017-04-12T00:00:00+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4417,6 +4647,7 @@
                 "PositionLat": 24.801637,
                 "PositionLon": 120.971627
             },
+            "StationUID": "TRA-1025",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4436,6 +4667,7 @@
                 "PositionLat": 24.808746,
                 "PositionLon": 120.98367
             },
+            "StationUID": "TRA-1024",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4455,6 +4687,7 @@
                 "PositionLat": 24.806662,
                 "PositionLon": 121.003273
             },
+            "StationUID": "TRA-2212",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4474,6 +4707,7 @@
                 "PositionLat": 24.788176,
                 "PositionLon": 121.022122
             },
+            "StationUID": "TRA-2213",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4493,6 +4727,7 @@
                 "PositionLat": 24.781358,
                 "PositionLon": 121.031306
             },
+            "StationUID": "TRA-2203",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4512,6 +4747,7 @@
                 "PositionLat": 24.807655,
                 "PositionLon": 121.039417
             },
+            "StationUID": "TRA-2214",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4531,6 +4767,7 @@
                 "PositionLat": 24.77789,
                 "PositionLon": 121.055725
             },
+            "StationUID": "TRA-2204",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4550,6 +4787,7 @@
                 "PositionLat": 24.74839,
                 "PositionLon": 121.083399
             },
+            "StationUID": "TRA-2211",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4569,6 +4807,7 @@
                 "PositionLat": 24.738257,
                 "PositionLon": 121.0949
             },
+            "StationUID": "TRA-2205",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4588,6 +4827,7 @@
                 "PositionLat": 24.72056,
                 "PositionLon": 121.11645
             },
+            "StationUID": "TRA-2206",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4607,6 +4847,7 @@
                 "PositionLat": 24.720599,
                 "PositionLon": 121.13602
             },
+            "StationUID": "TRA-2207",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4626,6 +4867,7 @@
                 "PositionLat": 24.716746,
                 "PositionLon": 121.154403
             },
+            "StationUID": "TRA-2208",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4645,6 +4887,7 @@
                 "PositionLat": 24.715559,
                 "PositionLon": 121.167377
             },
+            "StationUID": "TRA-2209",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4664,6 +4907,7 @@
                 "PositionLat": 24.705317,
                 "PositionLon": 121.182325
             },
+            "StationUID": "TRA-2210",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -4685,6 +4929,7 @@
                 "PositionLat": 23.81315,
                 "PositionLon": 120.618115
             },
+            "StationUID": "TRA-1207",
             "UpdateTime": "2016-08-09T10:48:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4704,6 +4949,7 @@
                 "PositionLat": 23.798445,
                 "PositionLon": 120.642034
             },
+            "StationUID": "TRA-2702",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4723,6 +4969,7 @@
                 "PositionLat": 23.834666,
                 "PositionLon": 120.70472
             },
+            "StationUID": "TRA-2703",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4742,6 +4989,7 @@
                 "PositionLat": 23.835188,
                 "PositionLon": 120.750404
             },
+            "StationUID": "TRA-2704",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4761,6 +5009,7 @@
                 "PositionLat": 23.826451,
                 "PositionLon": 120.784891
             },
+            "StationUID": "TRA-2705",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
@@ -4780,6 +5029,7 @@
                 "PositionLat": 23.818456,
                 "PositionLon": 120.853323
             },
+            "StationUID": "TRA-2706",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4799,6 +5049,7 @@
                 "PositionLat": 23.832637,
                 "PositionLon": 120.865745
             },
+            "StationUID": "TRA-2707",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4820,6 +5071,7 @@
                 "PositionLat": 22.904544,
                 "PositionLon": 120.2527
             },
+            "StationUID": "TRA-1230",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4839,6 +5091,7 @@
                 "PositionLat": 22.907187,
                 "PositionLon": 120.272176
             },
+            "StationUID": "TRA-5101",
             "UpdateTime": "2017-04-12T08:58:54+08:00",
             "VersionID": 1,
             "IsMainStationInArea": false
@@ -4858,6 +5111,7 @@
                 "PositionLat": 22.923953,
                 "PositionLon": 120.286371
             },
+            "StationUID": "TRA-5102",
             "UpdateTime": "2017-06-26T17:38:15+08:00",
             "VersionID": 1,
             "IsMainStationInArea": true
